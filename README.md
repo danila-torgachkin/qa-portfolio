@@ -15,7 +15,7 @@
 | [`bug-reports/`](bug-reports/) | Баг-репорты по шаблону: предусловия, шаги, факт, ожидание, Severity/Priority | Markdown |
 | [`api/`](api/) | Postman-коллекция `restful-booker`: 8 запросов, авторизация по токену, негативные проверки | Postman, REST, JSON |
 | [`saucedemo/`](saucedemo/) | Чек-листы и тест-кейсы по стенду интернет-магазина | DevTools, Markdown |
-| [`jira/`](jira/) | Скриншоты Jira-проекта: 3 бага, цикл статусов с возвратом, JQL-запросы | Jira |
+| [`jira/`](Jira/) | Скриншоты Jira-проекта: 3 бага, цикл статусов с возвратом, JQL-запросы | Jira |
 
 ---
 
