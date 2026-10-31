@@ -1,6 +1,6 @@
 # QA Portfolio — Данила Торгачкин
 
-Стажёр QA Engineer: ручное тестирование web и API.
+Стажёр QA / Junior QA Engineer: ручное тестирование web и API.
 
 Здесь учебные артефакты: баг-репорты, чек-листы, Postman-коллекции. Всё сделано на открытых стендах (`saucedemo.com`, `restful-booker.herokuapp.com`), без чужих данных.
 
