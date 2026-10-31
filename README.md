@@ -38,6 +38,20 @@
 
 ---
 
+## Jira
+
+| Что проверяли | Скриншот |
+| --- | --- |
+| Доска | ![Доска](Jira/Screens/board.png) |
+| Первый баг | ![Доска](Jira/Screens/qa-1.png) |
+| Второй баг | ![Доска](Jira/Screens/qa-2.png) |
+| Третий баг | ![Доска](Jira/Screens/qa-3.png) |
+| Цикл статусов с возвратом | ![История QA-2](Jira/Screens/qa-2-status-history.png) |
+| JQL: все баги, 3 задачи | ![JQL все баги](Jira/Screens/jql-all-bugs.png) |
+| JQL: открытые High, 2 задачи | ![JQL High](Jira/Screens/jql-open-high.png) |
+
+---
+
 ## Что дальше
 
 - [ ] Saucedemo: тест-план, 2 чек-листа, 7 тест-кейсов, баг-репорты, итоговый отчёт
